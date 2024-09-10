@@ -1,0 +1,4 @@
+package org.simplemodeling.domain.reservation
+datastoreをComponentFrameworkに移行
+IReservationLogic, ReservationLogicを追加
+IReservationRepository, ReservationRepositoryを追加
